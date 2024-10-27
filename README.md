@@ -1,2 +1,2 @@
-# Xeon-PairCode
+# AKIO-PairCode
 Pair code generator for whatsapp bots
